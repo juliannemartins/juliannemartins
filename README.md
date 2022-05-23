@@ -3,7 +3,7 @@
 
 👩🏽‍💻Tenho 18 anos, estou cursando o 3º do Ensino médio. Atualmente, desenvolvo minhas habilidades em JavaScript, CSS, HTML e Rect.
 
-👩🏽‍🎓Pretendo cursar Ciência da Computação, enquanto ingresso no mercado de trabalho. 
+👩🏽‍🎓Bixo Ciência da Computação 2022/1 - UFRGS 
 
 <div align="center">
   <a href="https://github.com/juliannemartins">
