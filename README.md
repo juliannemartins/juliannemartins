@@ -3,7 +3,7 @@
 
 👩🏽‍💻Tenho 18 anos. Atualmente, desenvolvo minhas habilidades em JavaScript, CSS, HTML e Rect.
 
-👩🏽‍🎓Bixo Ciência da Computação 2022/1 - UFRGS 
+🎓 Cursando Ciência da Computação - UFRGS 
 
 <div align="center">
   <a href="https://github.com/juliannemartins">
