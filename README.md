@@ -1,7 +1,7 @@
 ### Olá, tudo bem? Eu sou a Julianne Martins! :) Seja Bem-Vindo 💻📚
 ##
 
-👩🏽‍💻Tenho 18 anos. Atualmente, desenvolvo minhas habilidades em JavaScript, CSS, HTML e Rect.
+👩🏽‍💻Tenho 20 anos. Atualmente, desenvolvo minhas habilidades em JavaScript, CSS, HTML e Rect.
 
 🎓 Cursando Ciência da Computação - UFRGS 
 
